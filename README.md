@@ -9,11 +9,11 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Home Lab Projects</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [pfSense SIEM](https://github.com/jeffreyfaatz)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Noob Port Scanner](https://github.com/jeffreyfaatz)
+- <b>BASH</b>
+  - [Full enumeration scanner](https://www.github.com/jeffreyfaatz)
 
 <h2>💻 Recent Blog Posts</h2>
 
