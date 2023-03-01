@@ -9,7 +9,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Home Lab Projects</b>
-  - [pfSense SIEM](https://github.com/jeffreyfaatz)
+  - [pfSense and Snort - IDS/IPS](https://github.com/jeffreyfaatz)
 - <b>Python</b>
   - [Noob Port Scanner](https://github.com/jeffreyfaatz)
 - <b>BASH</b>
