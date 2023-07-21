@@ -8,12 +8,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Home Lab Projects</b>
-  - [pfSense and Snort - IDS/IPS](https://github.com/jeffreyfaatz)
-- <b>Python</b>
-  - [Noob Port Scanner](https://github.com/jeffreyfaatz)
-- <b>BASH</b>
-  - [Full enumeration scanner](https://www.github.com/jeffreyfaatz)
+<h2>Web Development Projects:</h2>
 
 <h2>💻 Recent Blog Posts</h2>
 
