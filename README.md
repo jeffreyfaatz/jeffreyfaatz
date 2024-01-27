@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeff! <br/><a href="https://www.linkedin.com/in/jeff-faatz/">Computer Science Professional</a>, <a href="https://github.com/jeffreyfaatz">Front End Developer, Ethical Hacker</a> and <a href="https://jeffreyfaatz.com">Blogger</a></h1>
+<h1>Hi, I'm Jeff! <br/><a href="https://www.linkedin.com/in/jeff-faatz/">Ethical Hacker</a>, <a href="https://github.com/jeffreyfaatz">Software Developer</a> and <a href="https://jeffreyfaatz.com">Blogger</a></h1>
 
 <h2>📜 Certifications:</h2>
 
