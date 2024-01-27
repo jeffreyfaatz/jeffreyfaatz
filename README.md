@@ -10,13 +10,13 @@
 
 <h2>Web Development Projects:</h2>
 
-<h2>💻 Recent Blog Posts</h2>
+<!-- <h2>💻 Recent Blog Posts</h2>
 
 - [How the Home Lab Came To Be](https://jeffreyfaatz.com/how-the-homelab-came-to-be/)
 - [My First Cybersecurity Certificaton](https://jeffreyfaatz.com/my-first-cybersecurity-certification/)
 - [RELEVANT - TryHackMe - Walkthrough](https://jeffreyfaatz.com/relevant-tryhackme-ctf-walkthrough/)
 - [CompTIA Security+ (sec+)](https://jeffreyfaatz.com/comptia-security-sec/)
-- [Launching A Virtual Machine In Proxmox](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Launching A Virtual Machine In Proxmox](https://www.youtube.com/watch?v=E2MwRWxDBkA) -->
 
 <h2> 🤳 Connect with me:</h2>
 
