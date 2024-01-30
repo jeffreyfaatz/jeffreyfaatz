@@ -10,11 +10,11 @@
 
 <h2>🔭 Coding Projects:</h2>
 
-https://thecypherforge.com - My personal, WIP, business website created fromt he ground up by me.
+- https://thecypherforge.com - My personal, WIP, business website created fromt he ground up by me.
 
-https://github.com/jeffreyfaatz/TCCC-pump - Software and Hardware project to create a pump that mimics a human heart pumping blood for a Tactical Combat Casualty Care (TCCC) course.
+- https://github.com/jeffreyfaatz/TCCC-pump - Software and Hardware project to create a pump that mimics a human heart pumping blood for a Tactical Combat Casualty Care (TCCC) course.
 
-https://github.com/jeffreyfaatz/PyChat - Chat and messaging app written in python. Still Under Development.
+- https://github.com/jeffreyfaatz/PyChat - Chat and messaging app written in python. Still Under Development.
 
 <h2>💻 Recent Blog Posts</h2>
 
