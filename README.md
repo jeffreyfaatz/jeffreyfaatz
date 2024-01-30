@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeff! <br/><a href="https://www.linkedin.com/in/jeff-faatz/">Ethical Hacker</a>, <a href="https://github.com/jeffreyfaatz">Software Developer</a> and <a href="https://jeffreyfaatz.com">Blogger</a></h1>
+<h1>Hi, I'm Jeff! <br/><a href="https://www.linkedin.com/in/jeff-faatz/">Ethical Hacker</a>, <a href="https://github.com/jeffreyfaatz">Coder</a> and <a href="https://jeffreyfaatz.com">Blogger</a></h1>
 
 <h2>📜 Certifications:</h2>
 
@@ -6,7 +6,7 @@
 - <b>(ISC)<sup>2</sup> Certified in Cybersecurity</b>
 - <b>Microsoft Certified: Azure Fundamentals</b>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<!-- <h2>👨‍💻 Cybersecurity Projects:</h2> -->
 
 <h2>🔭 Coding Projects:</h2>
 
@@ -16,10 +16,10 @@ https://github.com/jeffreyfaatz/TCCC-pump - Software and Hardware project to cre
 
 https://github.com/jeffreyfaatz/PyChat - Chat and messaging app written in python. Still Under Development.
 
-<!-- <h2>💻 Recent Blog Posts</h2>
+<h2>💻 Recent Blog Posts</h2>
 
-- [How the Home Lab Came To Be](https://jeffreyfaatz.com/how-the-homelab-came-to-be/)
-- [My First Cybersecurity Certificaton](https://jeffreyfaatz.com/my-first-cybersecurity-certification/)
+- [Crafting Your First Website: A Beginner’s Guide to HTML, CSS, and VS Code](https://jeffreyfaatz.com/2023/12/02/hello-world/)
+<!-- - [My First Cybersecurity Certificaton](https://jeffreyfaatz.com/my-first-cybersecurity-certification/)
 - [RELEVANT - TryHackMe - Walkthrough](https://jeffreyfaatz.com/relevant-tryhackme-ctf-walkthrough/)
 - [CompTIA Security+ (sec+)](https://jeffreyfaatz.com/comptia-security-sec/)
 - [Launching A Virtual Machine In Proxmox](https://www.youtube.com/watch?v=E2MwRWxDBkA) -->
